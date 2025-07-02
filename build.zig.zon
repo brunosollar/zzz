@@ -9,8 +9,8 @@
             .hash = "tardy-0.3.0-69wrgiTqAwAIQDlnXVqvOjCNPQhVjVZMQI_votbW49tu",
         },
         .secsock = .{
-            .url = "git+https://github.com/tardy-org/secsock?ref=v0.1.0#263dcd630e32c7a5c7a0522a8d1fd04e39b75c24",
-            .hash = "secsock-0.0.0-p0qurf09AQD95s1NQF2MGpBqMmFz7cKZWibsgv_SQBAr",
+            .url = "git+https://github.com/brunosollar/secsock?ref=main#938bf9cb7c6c08b2a67e23c0f9b9416479da68f2",
+            .hash = "secsock-0.0.0-p0qurSU-AQB4QThBf-lF-KynFRpEvcraiOrBmKjekgvf",
         },
     },
 
